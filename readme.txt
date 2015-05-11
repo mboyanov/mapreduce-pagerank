@@ -1,0 +1,1 @@
+This is a small project that will be able to compute the pagerank on various datasets. For now I plan to use it on the Enron dataset, Sofiatraffic (public transport in Sofia) and BDZ (railway services in Bulgaria), but maybe I can expand it even further. 
